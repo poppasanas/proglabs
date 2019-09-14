@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\student.ITIP\\bog\\bog.csproj",
+      "projectUniqueName": "C:\\Users\\student.ITIP\\bog\\proglabs\\bog.csproj",
       "projectName": "bog",
-      "projectPath": "C:\\Users\\student.ITIP\\bog\\bog.csproj",
+      "projectPath": "C:\\Users\\student.ITIP\\bog\\proglabs\\bog.csproj",
       "packagesPath": "C:\\Users\\student.ITIP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\student.ITIP\\bog\\obj\\",
+      "outputPath": "C:\\Users\\student.ITIP\\bog\\proglabs\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

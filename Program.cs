@@ -6,7 +6,8 @@ namespace bog
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var d = new Drob(1, 2);
+            Console.WriteLine("ok");
         }
     }
 }

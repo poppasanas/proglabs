@@ -1,0 +1,11 @@
+C:\Users\student.ITIP\bog\proglabs\bin\Debug\netcoreapp2.1\bog.deps.json
+C:\Users\student.ITIP\bog\proglabs\bin\Debug\netcoreapp2.1\bog.runtimeconfig.json
+C:\Users\student.ITIP\bog\proglabs\bin\Debug\netcoreapp2.1\bog.runtimeconfig.dev.json
+C:\Users\student.ITIP\bog\proglabs\bin\Debug\netcoreapp2.1\bog.dll
+C:\Users\student.ITIP\bog\proglabs\bin\Debug\netcoreapp2.1\bog.pdb
+C:\Users\student.ITIP\bog\proglabs\obj\Debug\netcoreapp2.1\bog.csprojAssemblyReference.cache
+C:\Users\student.ITIP\bog\proglabs\obj\Debug\netcoreapp2.1\bog.csproj.CoreCompileInputs.cache
+C:\Users\student.ITIP\bog\proglabs\obj\Debug\netcoreapp2.1\bog.AssemblyInfoInputs.cache
+C:\Users\student.ITIP\bog\proglabs\obj\Debug\netcoreapp2.1\bog.AssemblyInfo.cs
+C:\Users\student.ITIP\bog\proglabs\obj\Debug\netcoreapp2.1\bog.dll
+C:\Users\student.ITIP\bog\proglabs\obj\Debug\netcoreapp2.1\bog.pdb
