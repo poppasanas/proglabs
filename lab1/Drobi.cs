@@ -32,7 +32,6 @@ namespace bog
         {
             return $"{firstnumb}/{secondnumb}";
         }
-
     }
 
 }
