@@ -1,0 +1,11 @@
+C:\Users\122622\Documents\GitHub\proglabs\newlab2\bin\Debug\netcoreapp2.2\newlab2.deps.json
+C:\Users\122622\Documents\GitHub\proglabs\newlab2\bin\Debug\netcoreapp2.2\newlab2.runtimeconfig.json
+C:\Users\122622\Documents\GitHub\proglabs\newlab2\bin\Debug\netcoreapp2.2\newlab2.runtimeconfig.dev.json
+c:\Users\122622\Documents\GitHub\proglabs\newlab2\bin\Debug\netcoreapp2.2\newlab2.dll
+c:\Users\122622\Documents\GitHub\proglabs\newlab2\bin\Debug\netcoreapp2.2\newlab2.pdb
+c:\Users\122622\Documents\GitHub\proglabs\newlab2\obj\Debug\netcoreapp2.2\newlab2.csprojAssemblyReference.cache
+c:\Users\122622\Documents\GitHub\proglabs\newlab2\obj\Debug\netcoreapp2.2\newlab2.csproj.CoreCompileInputs.cache
+c:\Users\122622\Documents\GitHub\proglabs\newlab2\obj\Debug\netcoreapp2.2\newlab2.AssemblyInfoInputs.cache
+c:\Users\122622\Documents\GitHub\proglabs\newlab2\obj\Debug\netcoreapp2.2\newlab2.AssemblyInfo.cs
+c:\Users\122622\Documents\GitHub\proglabs\newlab2\obj\Debug\netcoreapp2.2\newlab2.dll
+c:\Users\122622\Documents\GitHub\proglabs\newlab2\obj\Debug\netcoreapp2.2\newlab2.pdb
