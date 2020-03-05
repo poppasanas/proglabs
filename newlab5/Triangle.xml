@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Triangle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <A>
+    <X>0</X>
+    <Y>0</Y>
+  </A>
+  <B>
+    <X>0</X>
+    <Y>5</Y>
+  </B>
+  <C>
+    <X>5</X>
+    <Y>0</Y>
+  </C>
+</Triangle>
